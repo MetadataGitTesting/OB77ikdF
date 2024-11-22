@@ -1,0 +1,49 @@
+name: stormy.bogan
+description: fresh-thinking
+version: 0.0.1
+author: aut2ior3.u3b0thhx@62n9nrdo.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: stormybogan
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:06:21'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:06:21'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:06:21.207125Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '28785230'
+  createdAt: '2024-11-22T23:06:21.207125Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
